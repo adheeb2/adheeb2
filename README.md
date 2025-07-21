@@ -34,13 +34,18 @@ I’m a backend engineer who enjoys building clean, modular systems that actuall
 
 
 #
-          
-
-
 
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adheeb2&show_icons=true&theme=radical)
 
 #
+
+<h3>📫 <strong>Let's Connect!</strong></h3>
+<a href = "https://www.linkedin.com/in/adheeb-anvar/">💼 Linkedin</a> &nbsp;|&nbsp;
+<a href="mailto:adheebanvar2@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+<a href="https://github.com/adheeb2">🔗 GitHub</a> &nbsp;|&nbsp; 
+<a href="https://hashnode.com/@adheeb">📝 Blog</a> &nbsp;|&nbsp;
+
+
 
