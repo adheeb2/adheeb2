@@ -1,7 +1,11 @@
 # 🦉 Adheeb Anvar
 **`Systems Alchemist (Backend Dev / ML Learner / Interactive Game Crafter)`**
 
-I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof. Lately, I’ve been diving into AI systems: NLP, LLMs, RAG pipelines, vector databases—you name it—because I’m genuinely curious about how far backend and intelligence can go together. I care about building things that work, scale, and don’t make the next dev curse my name.
+I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof.
+
+Lately, I’ve been diving into AI systems: NLP, LLMs, RAG pipelines, vector databases—you name it—because I’m genuinely curious about how far backend and intelligence can go together. 
+
+I care about building things that work, scale, and don’t make the next dev curse my name.
 
 
 
