@@ -1,4 +1,4 @@
-# 🦉 Adheeb Anvar
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Adheeb Anvar
 **`Systems Alchemist (Backend Dev / ML Learner / Interactive Game Crafter)`**
 
 I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof.
@@ -16,7 +16,7 @@ I care about building things that work, scale, and don’t make the next dev cur
 ---
 
 
-### 🧰 Languages and Tools
+### Languages and Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -40,16 +40,23 @@ I care about building things that work, scale, and don’t make the next dev cur
 #
 
 
-### 📊 GitHub Stats
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />  GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adheeb2&show_icons=true&theme=radical)
 
 #
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <h3>📫 <strong>Let's Connect!</strong></h3>
 <a href = "https://www.linkedin.com/in/adheeb-anvar/">💼 Linkedin</a> &nbsp;|&nbsp;
 <a href="mailto:adheebanvar2@gmail.com">📧 Email</a> &nbsp;|&nbsp;
 <a href="https://github.com/adheeb2">🔗 GitHub</a> &nbsp;|&nbsp; 
 <a href="https://hashnode.com/@adheeb">📝 Blog</a> &nbsp;|&nbsp;
+<div align="center">
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+  
+</div>
 
 
 
