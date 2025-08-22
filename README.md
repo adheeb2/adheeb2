@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Adheeb Anvar
-**`Systems Alchemist (Backend Dev / ML Learner / Interactive Game Crafter)`**
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt = "Adheeb Anvar emotional AI NPC developer"> Adheeb Anvar
+**`Systems Alchemist (Backend Dev / Conversational AI developer / Interactive Game Crafter)`**
 
-I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof.
+I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof
 
 Lately, I’ve been diving into AI systems: NLP, LLMs, RAG pipelines, vector databases—you name it—because I’m genuinely curious about how far backend and intelligence can go together. 
 
