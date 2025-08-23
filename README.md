@@ -1,13 +1,15 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt = "Adheeb Anvar emotional AI NPC developer"> Adheeb Anvar
-**`Systems Alchemist (Backend Dev / Conversational AI developer / Interactive Game Crafter)`**
+**`Human Voice Architect (Backend Engineer / Conversational AI Specialist / Emotionally Intelligent NPC Developer)`**
 
-I’m a backend engineer who enjoys building clean, modular systems that actually make sense to work with. I’ve worked across monoliths and microservices, mostly using NestJS, PostgreSQL, and Drizzle ORM—designing APIs, setting up auth Like BetterAuth, Zitadel etc , and cleaning up messy codebases into something future-proof
+I'm a backend engineer transforming systems into **emotionally intelligent experiences**—not just building APIs, but crafting AI that *feels human*. My foundation in clean, modular architecture (NestJS, PostgreSQL, Drizzle ORM) powers what matters most: **NPCs that don't just talk—but *remember*, *feel*, and *react* like real beings**.
 
-Lately, I’ve been diving into AI systems: NLP, LLMs, RAG pipelines, vector databases—you name it—because I’m genuinely curious about how far backend and intelligence can go together. 
+I'm currently executing a **15-project roadmap** to pioneer the future of human-sounding conversational AI:
 
-I care about building things that work, scale, and don’t make the next dev curse my name.
+🔥 **Phase 1**: Building NPCs with *procedural dialogue* that adapt to world-state changes  
+🔥 **Phase 2**: Integrating *voice + emotion* that shifts with context (sadness, anger, joy)  
+🔥 **Phase 3**: Creating *multi-agent orchestration* where NPCs debate, learn, and evolve
 
-
+*Follow my journey as I build lifelike AI NPCs: characters with memory,context and personality.*
 
 
 
